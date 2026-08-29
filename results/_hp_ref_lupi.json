@@ -1,0 +1,14 @@
+{
+  "lupi_lambda_teacher": 0.7,
+  "lupi_lambda_kl": 0.75,
+  "lupi_lambda_kl_calib": 0.45,
+  "calib_optimizer": "lbfgs",
+  "calib_lr": 0.1,
+  "calib_lbfgs_max_iter": 20,
+  "calib_theta_l2": 0.01,
+  "backbone_lr": 0.001,
+  "backbone_batch_size": 256,
+  "backbone_weight_decay": 0.0001,
+  "early_stop_patience": 4,
+  "min_train_weight": 0.03
+}

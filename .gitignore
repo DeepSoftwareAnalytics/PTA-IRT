@@ -1,0 +1,16 @@
+# Unpacked assets (use the zip archives at repo root)
+/data/
+/traj_summaries/
+
+# Not part of the public package
+/release/
+
+__pycache__/
+*.py[cod]
+*.pyo
+.Python
+keys.cfg
+.DS_Store
+Thumbs.db
+.venv/
+venv/
